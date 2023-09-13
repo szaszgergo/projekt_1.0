@@ -1,0 +1,1 @@
+A Windows űrlapban a "GroupBox" egy olyan tároló egység, amely több vezérlőt tartalmaz,és ezek a vezérlők kapcsolódnak egymáshoz. Más szóval a "GroupBox" egy keretként jeleníti meg a kapcsolódó vezérlők csoportját egy megfelelő opcionális címmel. Vagyis a "GroupBox" arra szolgál, hogy csoportosítsa a kapcsolódó vezérlőket egy csoportban.
