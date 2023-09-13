@@ -1,0 +1,3 @@
+
+A CheckBox és RadioButton vezérlők hasonló funkciót látnak el: lehetővé teszik a felhasználó számára, hogy válasszon a lehetőségek listájából. A CheckBox vezérlők lehetővé teszik a felhasználó számára, hogy válasszon egy lehetőséges kombinációt. Ezzel szemben a RadioButton vezérlők lehetővé teszik a felhasználónak, hogy egymást kizáró lehetőségek közül válasszon.
+A megjelenés (Appearance) tulajdonság határozza meg, hogy a CheckBox egy tipikus jelölőnégyzet ként vagy gombként jelenjen-e meg.

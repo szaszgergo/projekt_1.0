@@ -1,5 +1,0 @@
-CheckBox and RadioButton controls have a similar function: they allow the user to choose from a list of options. CheckBox controls let the user pick a combination of options. In contrast, RadioButton controls allow a user to choose from mutually exclusive options.
-
-The Appearance property determines whether the CheckBox appears as a typical CheckBox or as a button.
-
-The ThreeState property determines whether the control supports two or three states. Use the Checked property to get or set the value of a two-state CheckBox control and use the CheckState property to get or set the value of a three-state CheckBox control.
