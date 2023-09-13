@@ -1,0 +1,2 @@
+
+A radiobutton lehetővé teszi a felhasználók számára, hogy egyetlen lehetőséget válasszanak ki a lehetőségek csoportjából, ha más rádió gombokkal együtt használják. Amikor a felhasználó rákattint egy rádió gombra, az ellenőrzötté válik, jelezve a felhasználó választását, míg az összes többi rádiógomb ugyanabban a csoportban automatikusan nem jelöltté válik. A RadioButton vezérlő lehetőséget nyújt szöveg, kép vagy mindkettő megjelenítésére is.
