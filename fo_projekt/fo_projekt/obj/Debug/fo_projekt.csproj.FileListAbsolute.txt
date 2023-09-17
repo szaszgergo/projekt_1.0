@@ -1,0 +1,11 @@
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\bin\Debug\fo_projekt.exe.config
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\bin\Debug\fo_projekt.exe
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\bin\Debug\fo_projekt.pdb
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\obj\Debug\fo_projekt.csproj.AssemblyReference.cache
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\obj\Debug\fo_projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\obj\Debug\fo_projekt.Properties.Resources.resources
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\obj\Debug\fo_projekt.csproj.GenerateResource.cache
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\obj\Debug\fo_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\obj\Debug\fo_projekt.exe
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\obj\Debug\fo_projekt.pdb
+C:\Users\Gergő\Desktop\c#\projekt\fo_projekt\fo_projekt\obj\Debug\fo_projekt.Form1.resources
