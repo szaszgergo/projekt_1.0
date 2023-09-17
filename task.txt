@@ -1,0 +1,22 @@
+1. mini példák:
+  -groupbox   
+  -radiobutton (kis kérdőív pl fiú lány kutya macska stb és akkor az eredményeket pl egy textboxba kiírja)
+  -checkbox ()
+2.PPT
+1 dia cím
+2 d groupbox (valaki elmondja hogy mi )
+3 d groupbox mini példa 
+4 d radiobutton  (valaki elmondja hogy mi )
+5 d radiobutton mini példa 
+6 d checkbox  (valaki elmondja hogy mi )
+7 d checkbox mini példa 
+8 d nagy projekt 
+  - funkcio mik vannak benne stb 1- kep az egészről
+9 d képekróla
+10 d forrás (bebaszunk stackoverflows linkeket yt-b linkeket meg microsoft linket stb)
+  
+
+  -szövegeket beilleszteni (2-3 mondat max)
+  - a példákról képeket minikről 1-1 kép (kód/form) a nagyról 2-2 kb
+  - animálás 
+  
