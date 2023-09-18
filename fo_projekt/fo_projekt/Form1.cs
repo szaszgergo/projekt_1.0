@@ -66,6 +66,16 @@ namespace fo_projekt
                 cbx_mosogep.Enabled = false;
                 cbx_tanyer.Enabled = false;
                 cbx_sepru.Enabled = false;
+
+                txtb_serpenyo.Enabled = false;
+                txtb_labos.Enabled = false;
+                txtb_porszivo.Enabled=false;
+                txtb_huto.Enabled=false;
+                txtb_mosogep.Enabled=false;
+                txtb_tanyer.Enabled=false;
+                txtb_sepru.Enabled=false;
+
+
             }
         }
 
@@ -131,6 +141,14 @@ namespace fo_projekt
                 cbx_kenyer.Enabled = false;
                 cbx_tej.Enabled = false;
                 cbx_sajt.Enabled = false;
+
+                txtb_alma.Enabled = false;
+                txtb_banan.Enabled = false;
+                txtb_csirkemell.Enabled = false;
+                txtb_szalami.Enabled = false;
+                txtb_kenyer.Enabled = false;
+                txtb_tej.Enabled = false;
+                txtb_sajt.Enabled = false;
             }
         }
 
@@ -153,7 +171,8 @@ namespace fo_projekt
 
         private void cbx_alma_CheckedChanged(object sender, EventArgs e)
         {
-           
+            
+
             if (cbx_alma.Checked)
             {
                 txtb_alma.Enabled = true;
@@ -419,3 +438,9 @@ namespace fo_projekt
 
     }
 }
+
+
+
+
+
+
